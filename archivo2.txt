@@ -1,3 +1,0 @@
-2do PGM
-aprendiendo Git
-Agregando otro commit
